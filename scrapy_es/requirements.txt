@@ -36,7 +36,7 @@ scrapyd-client==1.1.0
 selenium==3.8.1
 service-identity==17.0.0
 six==1.11.0
-Twisted==17.9.0
+Twisted==19.2.1
 urllib3==1.22
 w3lib==1.19.0
 zope.interface==4.4.3
